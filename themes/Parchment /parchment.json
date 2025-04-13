@@ -17,12 +17,12 @@
   "scopes": {
     "base": {
       "primary": {
-        "accent": "#492808",
+        "accent": "#000000",
         "paragraph": "#492808",
         "background": "#eeead7",
         "border": "#492808",
         "heading": "#492808",
-        "icon": "#492808",
+        "icon": "#000000",
         "separator": "#492808",
         "placeholder": "#492808",
         "hover": "#f7f7f7",
@@ -32,7 +32,7 @@
       "secondary": {
         "accent": "#492808",
         "paragraph": "#492808",
-        "background": "#bbb0a5",
+        "background": "#bcb3a9",
         "border": "#492808",
         "heading": "#492808",
         "icon": "#492808",
@@ -58,7 +58,7 @@
       "selected": {
         "accent": "#492808",
         "paragraph": "#492808",
-        "background": "#bbb0a5",
+        "background": "#bcb3a9",
         "border": "#492808",
         "heading": "#492808",
         "icon": "#000000",
@@ -105,13 +105,16 @@
     },
     "list": {
       "primary": {
-        "accent": "#000000",
+        "accent": "#585f45",
         "paragraph": "#000000",
         "background": "#d1d1d1",
         "border": "#000000",
         "heading": "#000000",
         "icon": "#000000",
+        "separator": "#000000",
+        "placeholder": "#000000",
         "hover": "#000000",
+        "accentForeground": "#000000",
         "backdrop": "#000000"
       },
       "selected": {
@@ -134,7 +137,9 @@
         "paragraph": "#d0b44e",
         "background": "#441844",
         "border": "#492808",
-        "icon": "#d0b44e"
+        "icon": "#d0b44e",
+        "placeholder": "#000000",
+        "accentForeground": "#000000"
       }
     }
   }
