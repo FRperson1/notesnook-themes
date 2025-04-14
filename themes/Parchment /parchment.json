@@ -117,6 +117,10 @@
         "accentForeground": "#000000",
         "backdrop": "#000000"
       },
+      "secondary": {
+        "accent": "#000000",
+        "paragraph": "#ebebeb"
+      },
       "selected": {
         "accent": "#d0b44e",
         "paragraph": "#d0b44e",
@@ -193,10 +197,4 @@
         "background": "#c2c2c2",
         "border": "#492808",
         "icon": "#000000",
-        "placeholder": "#000000",
-        "hover": "#ffffff",
-        "accentForeground": "#000000"
-      }
-    }
-  }
-}
+        "placeholder": "#0000
