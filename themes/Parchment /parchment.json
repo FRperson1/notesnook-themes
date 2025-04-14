@@ -97,7 +97,7 @@
     },
     "statusBar": {
       "primary": {
-        "background": "#ffffff"
+        "background": "#d0b44e"
       },
       "secondary": {
         "background": "#000000"
@@ -107,7 +107,7 @@
       "primary": {
         "accent": "#d0b44e",
         "paragraph": "#d0b44e",
-        "background": "#4f214f",
+        "background": "#4e184e",
         "border": "#000000",
         "heading": "#d0b44e",
         "icon": "#d0b44e",
@@ -175,7 +175,8 @@
       "primary": {
         "accent": "#000000",
         "paragraph": "#000000",
-        "background": "#000000",
+        "background": "#c2c2c2",
+        "heading": "#000000",
         "accentForeground": "#000000"
       },
       "secondary": {
