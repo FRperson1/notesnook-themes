@@ -32,7 +32,7 @@
       "secondary": {
         "accent": "#000000",
         "paragraph": "#000000",
-        "background": "#000000",
+        "background": "#c2c2c2",
         "border": "#492808",
         "heading": "#492808",
         "icon": "#492808",
@@ -60,7 +60,7 @@
         "paragraph": "#000000",
         "background": "#c2c2c2",
         "border": "#492808",
-        "heading": "#492808",
+        "heading": "#000000",
         "icon": "#000000",
         "separator": "#492808",
         "placeholder": "#492808",
@@ -113,13 +113,14 @@
         "icon": "#d0b44e",
         "separator": "#000000",
         "placeholder": "#000000",
-        "hover": "#000000",
+        "hover": "#8a0030",
         "accentForeground": "#000000",
         "backdrop": "#000000"
       },
       "secondary": {
         "accent": "#000000",
-        "paragraph": "#ebebeb"
+        "paragraph": "#ebebeb",
+        "background": "#000000"
       },
       "selected": {
         "accent": "#d0b44e",
@@ -174,15 +175,18 @@
       "primary": {
         "accent": "#000000",
         "paragraph": "#000000",
+        "background": "#000000",
         "accentForeground": "#000000"
       },
       "secondary": {
         "accent": "#000000",
         "paragraph": "#000000",
+        "background": "#000000",
         "heading": "#ffffff"
       },
       "selected": {
-        "accent": "#ffffff"
+        "accent": "#ffffff",
+        "background": "#000000"
       }
     },
     "titleBar": {
@@ -197,4 +201,10 @@
         "background": "#c2c2c2",
         "border": "#492808",
         "icon": "#000000",
-        "placeholder": "#0000
+        "placeholder": "#000000",
+        "hover": "#ffffff",
+        "accentForeground": "#000000"
+      }
+    }
+  }
+}
