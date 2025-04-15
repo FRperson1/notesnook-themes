@@ -10,8 +10,8 @@
   "authors": [
     {
       "name": "FRperson1",
-      "email": "504@pm.me",
-      "url": "https://tech.lgbt/@riiku"
+      "email": "504@gmail.com",
+      "url": "https://tech.lgbt/@FRperson1"
     }
   ],
   "scopes": {
@@ -105,12 +105,12 @@
     },
     "list": {
       "primary": {
-        "accent": "#b3820f",
-        "paragraph": "#b3820f",
-        "background": "#372442",
+        "accent": "#c28b0a",
+        "paragraph": "#c28b0a",
+        "background": "#392046",
         "border": "#000000",
-        "heading": "#b3820f",
-        "icon": "#b3820f",
+        "heading": "#c28b0a",
+        "icon": "#c28b0a",
         "separator": "#000000",
         "placeholder": "#000000",
         "hover": "#000000",
@@ -120,7 +120,7 @@
       "secondary": {
         "accent": "#b3820f",
         "paragraph": "#b3820f",
-        "background": "#3a4a78",
+        "background": "#324785",
         "heading": "#b3820f",
         "placeholder": "#b3820f",
         "accentForeground": "#000000",
@@ -129,10 +129,10 @@
       "selected": {
         "accent": "#b3820f",
         "paragraph": "#b3820f",
-        "background": "#6b0f3c",
+        "background": "#8f2457",
         "border": "#000000",
-        "heading": "#b3820f",
-        "icon": "#b3820f",
+        "heading": "#000000",
+        "icon": "#c28b0a",
         "separator": "#000000",
         "placeholder": "#000000",
         "hover": "#000000",
