@@ -9,8 +9,8 @@
   "compatibilityVersion": 1,
   "authors": [
     {
-      "name": "riiku",
-      "email": "ricardo.ars@pm.me",
+      "name": "FRperson1",
+      "email": "504@pm.me",
       "url": "https://tech.lgbt/@riiku"
     }
   ],
@@ -19,7 +19,7 @@
       "primary": {
         "accent": "#492808",
         "paragraph": "#492808",
-        "background": "#eeead7",
+        "background": "#cccccc",
         "border": "#492808",
         "heading": "#492808",
         "icon": "#000000",
@@ -32,7 +32,7 @@
       "secondary": {
         "accent": "#000000",
         "paragraph": "#000000",
-        "background": "#c2c2c2",
+        "background": "#d4cdc4",
         "border": "#492808",
         "heading": "#492808",
         "icon": "#492808",
@@ -58,26 +58,26 @@
       "selected": {
         "accent": "#000000",
         "paragraph": "#000000",
-        "background": "#c2c2c2",
+        "background": "#c4a764",
         "border": "#492808",
         "heading": "#000000",
         "icon": "#000000",
         "separator": "#492808",
         "placeholder": "#492808",
-        "hover": "#ffffff",
+        "hover": "#c6b39f",
         "accentForeground": "#000000",
         "backdrop": "#492808"
       },
       "error": {
         "accent": "#191a26",
         "paragraph": "#e4251b",
-        "background": "#dfe0e5",
-        "border": "#E8E8E8",
+        "background": "#ffffff",
+        "border": "#e3e3e3",
         "heading": "#f54b42",
         "icon": "#ed333b",
         "separator": "#E8E8E8",
         "placeholder": "#191a26",
-        "hover": "#00000010",
+        "hover": "#ffffff",
         "accentForeground": "#ffffff",
         "backdrop": "#0000001a"
       },
@@ -97,7 +97,7 @@
     },
     "statusBar": {
       "primary": {
-        "background": "#d0b44e"
+        "background": "#cccccc"
       },
       "secondary": {
         "background": "#000000"
@@ -105,54 +105,45 @@
     },
     "list": {
       "primary": {
-        "accent": "#d0b44e",
-        "paragraph": "#d0b44e",
-        "background": "#4e184e",
+        "accent": "#b3820f",
+        "paragraph": "#b3820f",
+        "background": "#372442",
         "border": "#000000",
-        "heading": "#d0b44e",
-        "icon": "#d0b44e",
+        "heading": "#b3820f",
+        "icon": "#b3820f",
         "separator": "#000000",
         "placeholder": "#000000",
-        "hover": "#8a0030",
+        "hover": "#000000",
         "accentForeground": "#000000",
         "backdrop": "#000000"
       },
       "secondary": {
-        "accent": "#000000",
-        "paragraph": "#ebebeb",
-        "background": "#000000"
+        "accent": "#b3820f",
+        "paragraph": "#b3820f",
+        "background": "#3a4a78",
+        "heading": "#b3820f",
+        "placeholder": "#b3820f",
+        "accentForeground": "#000000",
+        "backdrop": "#000000"
       },
       "selected": {
-        "accent": "#d0b44e",
-        "paragraph": "#d0b44e",
-        "background": "#650b32",
+        "accent": "#b3820f",
+        "paragraph": "#b3820f",
+        "background": "#6b0f3c",
         "border": "#000000",
-        "heading": "#d0b44e",
-        "icon": "#d0b44e",
+        "heading": "#b3820f",
+        "icon": "#b3820f",
         "separator": "#000000",
         "placeholder": "#000000",
-        "hover": "#121ca5",
+        "hover": "#000000",
         "accentForeground": "#000000",
         "backdrop": "#000000"
       }
     },
     "editor": {
       "primary": {
-        "hover": "#d0b44e"
-      },
-      "secondary": {
-        "hover": "#d0b44e"
-      },
-      "selected": {
-        "hover": "#d0b44e"
-      },
-      "success": {
-        "hover": "#d0b44e"
-      }
-    },
-    "editorToolbar": {
-      "primary": {
-        "icon": "#000000",
+        "accent": "#000000",
+        "background": "#f1ebda",
         "hover": "#d0b44e"
       },
       "secondary": {
@@ -165,17 +156,59 @@
         "hover": "#d0b44e"
       },
       "error": {
-        "hover": "#000000"
+        "hover": "#d0b44e"
       },
       "success": {
         "hover": "#d0b44e"
+      }
+    },
+    "editorToolbar": {
+      "primary": {
+        "accent": "#000000",
+        "paragraph": "#000000",
+        "background": "#f1ebda",
+        "border": "#000000",
+        "heading": "#000000",
+        "icon": "#000000",
+        "separator": "#000000",
+        "placeholder": "#000000",
+        "hover": "#d0b44e",
+        "accentForeground": "#000000",
+        "backdrop": "#ffffff"
+      },
+      "secondary": {
+        "accent": "#000000",
+        "paragraph": "#000000",
+        "background": "#000000",
+        "border": "#000000",
+        "separator": "#000000",
+        "placeholder": "#000000",
+        "hover": "#d0b44e",
+        "backdrop": "#ffffff"
+      },
+      "disabled": {
+        "hover": "#d0b44e"
+      },
+      "selected": {
+        "background": "#ffffff",
+        "border": "#000000",
+        "separator": "#000000",
+        "hover": "#d0b44e",
+        "backdrop": "#ffffff"
+      },
+      "error": {
+        "hover": "#ffffff"
+      },
+      "success": {
+        "hover": "#d0b44e",
+        "backdrop": "#ffffff"
       }
     },
     "editorSidebar": {
       "primary": {
         "accent": "#000000",
         "paragraph": "#000000",
-        "background": "#c2c2c2",
+        "background": "#cec1b1",
         "heading": "#000000",
         "accentForeground": "#000000"
       },
@@ -192,14 +225,30 @@
     },
     "titleBar": {
       "primary": {
-        "hover": "#000000"
+        "background": "#000000",
+        "hover": "#d0b44e"
+      },
+      "secondary": {
+        "hover": "#d0b44e"
+      },
+      "selected": {
+        "hover": "#d0b44e"
+      }
+    },
+    "dialog": {
+      "primary": {
+        "background": "#cec1b1",
+        "hover": "#ffffff"
+      },
+      "selected": {
+        "background": "#bfbfbf"
       }
     },
     "navigationMenu": {
       "primary": {
         "accent": "#000000",
         "paragraph": "#000000",
-        "background": "#c2c2c2",
+        "background": "#bfbfbf",
         "border": "#492808",
         "icon": "#000000",
         "placeholder": "#000000",
