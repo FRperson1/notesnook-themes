@@ -9,9 +9,9 @@
   "compatibilityVersion": 1,
   "authors": [
     {
-      "name": "FRperson1",
-      "email": "504@gmail.com",
-      "url": "https://tech.lgbt/@FRperson1"
+      "name": "Streetwriters",
+      "email": "support@streetwriters.co",
+      "url": "https://streetwriters.co"
     }
   ],
   "scopes": {
@@ -32,7 +32,7 @@
       "secondary": {
         "accent": "#000000",
         "paragraph": "#000000",
-        "background": "#d4cdc4",
+        "background": "#d7c2ac",
         "border": "#492808",
         "heading": "#492808",
         "icon": "#492808",
@@ -97,32 +97,47 @@
     },
     "statusBar": {
       "primary": {
-        "background": "#cccccc"
+        "accent": "#ffffff",
+        "paragraph": "#ffffff",
+        "background": "#000000",
+        "border": "#ffffff",
+        "heading": "#ffffff",
+        "icon": "#ffffff",
+        "separator": "#ffffff",
+        "placeholder": "#ffffff",
+        "hover": "#878787",
+        "accentForeground": "#ffffff",
+        "backdrop": "#ffffff"
       },
       "secondary": {
+        "accent": "#ffffff",
+        "paragraph": "#ffffff",
         "background": "#000000"
       }
     },
     "list": {
       "primary": {
-        "accent": "#c28b0a",
-        "paragraph": "#c28b0a",
-        "background": "#392046",
-        "border": "#000000",
+        "accent": "#f2cc5a",
+        "paragraph": "#fc61ff",
+        "background": "#2e3d6b",
+        "border": "#99ddff",
         "heading": "#c28b0a",
         "icon": "#c28b0a",
         "separator": "#000000",
-        "placeholder": "#000000",
+        "placeholder": "#99ddff",
         "hover": "#000000",
         "accentForeground": "#000000",
         "backdrop": "#000000"
       },
       "secondary": {
-        "accent": "#b3820f",
-        "paragraph": "#b3820f",
+        "accent": "#c28b0a",
+        "paragraph": "#ef8faf",
         "background": "#324785",
+        "border": "#000000",
         "heading": "#b3820f",
+        "separator": "#000000",
         "placeholder": "#b3820f",
+        "hover": "#000000",
         "accentForeground": "#000000",
         "backdrop": "#000000"
       },
@@ -142,8 +157,8 @@
     },
     "editor": {
       "primary": {
-        "accent": "#000000",
-        "background": "#f1ebda",
+        "accent": "#fbfae9",
+        "background": "#fbfae9",
         "hover": "#d0b44e"
       },
       "secondary": {
@@ -166,7 +181,7 @@
       "primary": {
         "accent": "#000000",
         "paragraph": "#000000",
-        "background": "#f1ebda",
+        "background": "#fbfae9",
         "border": "#000000",
         "heading": "#000000",
         "icon": "#000000",
@@ -174,7 +189,7 @@
         "placeholder": "#000000",
         "hover": "#d0b44e",
         "accentForeground": "#000000",
-        "backdrop": "#ffffff"
+        "backdrop": "#d0b44e"
       },
       "secondary": {
         "accent": "#000000",
@@ -208,7 +223,7 @@
       "primary": {
         "accent": "#000000",
         "paragraph": "#000000",
-        "background": "#cec1b1",
+        "background": "#a8a8a8",
         "heading": "#000000",
         "accentForeground": "#000000"
       },
@@ -248,12 +263,16 @@
       "primary": {
         "accent": "#000000",
         "paragraph": "#000000",
-        "background": "#bfbfbf",
+        "background": "#ffffff",
         "border": "#492808",
         "icon": "#000000",
         "placeholder": "#000000",
         "hover": "#ffffff",
         "accentForeground": "#000000"
+      },
+      "selected": {
+        "background": "#999999",
+        "hover": "#bababa"
       }
     }
   }
